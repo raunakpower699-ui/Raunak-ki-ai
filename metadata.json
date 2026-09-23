@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Ultimate",
+  "description": "Autonomous AI personal assistant with device control, morphing liquid glass interface, bilingual voice and smart automations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
